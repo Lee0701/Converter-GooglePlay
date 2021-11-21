@@ -1,1 +1,28 @@
-{}
+common:
+  summary: Type Korean Hanja without switching your keyboard
+  details: "This app enables you to type in Hanja with the keyboard you already use.\n\
+    \nSupports both Hanja-word and character-wise conversion, and comes with two cusotmizable\
+    \ candidates window.\n\n## IMPORTANT NOTICE: Accessibility Service is used for\
+    \ the main functionality of Hanja Converter.\nAccessibility Service is only used\
+    \ for the following purposes:\n- Extract content to convert to Hanja from the\
+    \ text entered by the user\n- Replasce the text entered by the user with content\
+    \ converted to Hanja\nHanja Converter never collects or uses the content entered\
+    \ by the user for any other purposes.\n\nThere might be some incompatbile apps.\
+    \ In this situation, you could copy&paste from the supported app. And we will\
+    \ review and try to fix it if you give us a report.\n\nPlease open the app after\
+    \ installation for initial set-up.\n"
+donation:
+  summary: Type Korean Hanja without switching your keyboard
+  details: "This app enables you to type in Hanja with the keyboard you already use.\n\
+    \nThis Donation version includes all functionality of Common version. Additionally,\
+    \ there are exclusive features only for Donation version as following:\n- Next\
+    \ word prediction\n- Context based candidate ordering\n- Learning of new Hanja-words\n\
+    And some more of them as planned.\n\n## IMPORTANT NOTICE: Accessibility Service\
+    \ is used for the main functionality of Hanja Converter.\nAccessibility Service\
+    \ is only used for the following purposes:\n- Extract content to convert to Hanja\
+    \ from the text entered by the user\n- Replasce the text entered by the user with\
+    \ content converted to Hanja\nHanja Converter never collects or uses the content\
+    \ entered by the user for any other purposes.\n\nThere might be some incompatbile\
+    \ apps. In this situation, you could copy&paste from the supported app. And we\
+    \ will review and try to fix it if you give us a report.\n\nPlease open the app\
+    \ after installation for initial set-up."
